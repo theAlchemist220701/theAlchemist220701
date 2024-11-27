@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theAlchemist220701
+- 👋 Hi, I’m DIWAKAR 
 - 👀 I’m interested in ...learning relevent skills of the tech industry
 - 🌱 I’m currently learning ... java programming and Full stack Web development
 - 💞️ I’m looking to collaborate on ... web development projects
